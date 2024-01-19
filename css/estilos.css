@@ -1,0 +1,10 @@
+.externo{
+	font-family:Sevillana;
+}
+@font-face{
+	font-family:Permanent Marker;
+	src:url(../fonts/oli.ttf);
+}
+.servidor{
+	font-family:Permanent Marker;
+}
